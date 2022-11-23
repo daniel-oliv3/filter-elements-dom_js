@@ -16,3 +16,6 @@
    // senão
      // para cada carta de cartas
        // exibe o elemento do cartão
+
+
+/* ======= ======= */
